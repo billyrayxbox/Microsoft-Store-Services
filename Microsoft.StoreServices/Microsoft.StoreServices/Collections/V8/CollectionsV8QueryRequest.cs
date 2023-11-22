@@ -57,6 +57,7 @@ namespace Microsoft.StoreServices.Collections.V8
             };
 
             Beneficiaries = new List<CollectionsRequestBeneficiary>();
+            ProductSkuIds = new List<ProductSkuId>();
         }
     }
 
